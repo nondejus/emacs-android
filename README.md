@@ -27,4 +27,4 @@ If you want to use your own build:
 4. Change MIRROR=... in busyboxrc.sh to your server URL.
 
 
-https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html#Releases
+https://www.gnu.org/savannah-checkouts/gnu/emacs
