@@ -25,3 +25,6 @@ If you want to use your own build:
 2. `cd native; ./upload.sh username@host:path`
 3. Download http://emacs.zielm.com/data/busyboxrc.sh to the same directory.
 4. Change MIRROR=... in busyboxrc.sh to your server URL.
+
+
+https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html#Releases
